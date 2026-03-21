@@ -13,7 +13,6 @@ public class bill {
         float gst = 18/100f * total;
         float finalAmount = total + gst;
         System.out.println("Your total bill is: " + finalAmount);
-
-
+        
     }
 }
